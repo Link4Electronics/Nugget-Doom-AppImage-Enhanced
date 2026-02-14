@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Nugget-Doom-AppImage-Enhanced)](https://github.com/pkgforge-dev/Nugget-Doom-AppImage-Enhanced/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/MrAlaux/Nugget-Doom.png" width="128" />
+  <img src="https://github.com/MrAlaux/Nugget-Doom/blob/master/data/nugget-doom.png" width="128" />
 </p>
 
 
