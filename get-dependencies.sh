@@ -7,9 +7,11 @@ ARCH=$(uname -m)
 echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
 pacman -Syu --noconfirm \
-    cmake      \
-    fluidsynth \
-    sdl2       \
+    cmake          \
+    fluidsynth     \
+    pipewire-audio \
+    pipewire-jack  \
+    sdl2           \
     sdl2_net
 
 echo "Installing debloated packages..."
