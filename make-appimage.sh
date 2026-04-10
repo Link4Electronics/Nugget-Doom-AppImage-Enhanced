@@ -14,7 +14,7 @@ export STARTUPWMCLASS=nugget-doom
 export DEPLOY_OPENGL=1
 
 # Deploy dependencies
-quick-sharun /usr/bin/nugget-doom /usr/bin/nugget-doom-setup
+quick-sharun /usr/bin/nugget-doom /usr/bin/nugget-doom-setup /usr/lib/libfluidsynth.so*
 
 # Additional changes can be done in between here
 
